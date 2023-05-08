@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-08T14:53:17.144Z",
+  "dateModified": "2023-05-08T15:04:01.731Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
@@ -39,6 +39,10 @@
     {
       "url": "3gai/pol.html",
       "name": "ポーランド語 / polski"
+    },
+    {
+      "url": "3gai/tur.html",
+      "name": "トルコ語 / Türkçe"
     },
     {
       "url": "contri/consti.html",
