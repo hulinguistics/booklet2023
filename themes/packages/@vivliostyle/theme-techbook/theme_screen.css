@@ -591,6 +591,22 @@ section p:has(img) img {
   width: 50%;
 }
 
+.section-title {
+  height: 100%;
+  width: 100%;
+}
+.section-title section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.section-title section h2 {
+  text-align: center;
+  font-size: 4em;
+}
+
 /* for wide screen */
 body {
   max-width: 800px;
