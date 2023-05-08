@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-08T12:46:40.558Z",
+  "dateModified": "2023-05-08T13:53:32.636Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
@@ -43,6 +43,10 @@
     {
       "url": "contri/edu_jpn.html",
       "name": "知っていますか?「日本語教育」"
+    },
+    {
+      "url": "contri/fra_rus.html",
+      "name": "ロシアにおけるフランス語について"
     }
   ],
   "resources": [],
