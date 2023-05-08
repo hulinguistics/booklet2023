@@ -512,7 +512,7 @@ ol.cite-items li::before {
 @page :left {
   font-family: "Noto Sans", "Noto Sans JP";
   margin-left: 18mm;
-  margin-right: 35mm;
+  margin-right: 20mm;
   @top-center {
     content: env(pub-title);
     font-size: 75%;
@@ -528,7 +528,7 @@ ol.cite-items li::before {
 }
 @page :right {
   font-family: "Noto Sans", "Noto Sans JP";
-  margin-left: 35mm;
+  margin-left: 20mm;
   margin-right: 18mm;
   @top-center {
     content: env(doc-title);
