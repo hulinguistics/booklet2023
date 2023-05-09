@@ -7,22 +7,18 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-09T01:45:35.945Z",
+  "dateModified": "2023-05-09T02:22:43.044Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
       "url": "index.html",
-      "name": "言サ冊子2023(仮称)"
+      "name": "言サ冊子2023(仮称)",
+      "rel": "contents",
+      "type": "LinkedResource"
     },
     {
       "url": "preface.html",
       "name": "はじめに"
-    },
-    {
-      "url": "toc.html",
-      "name": "言サ冊子2023(仮称)",
-      "rel": "contents",
-      "type": "LinkedResource"
     },
     {
       "url": "3gai/index.html",
