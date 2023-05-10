@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-09T04:30:03.533Z",
+  "dateModified": "2023-05-10T02:57:58.965Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
@@ -59,6 +59,10 @@
     {
       "url": "contri/edu_jpn.html",
       "name": "知っていますか?「日本語教育」"
+    },
+    {
+      "url": "contri/pol_spolgloski_miekki.html",
+      "name": "「きのうてきなんしいん」ってなぁに？"
     },
     {
       "url": "contri/fra_rus.html",
