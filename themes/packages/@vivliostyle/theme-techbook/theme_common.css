@@ -619,13 +619,13 @@ section h1 {
 section h2, section h3, section h4 {
   margin: 1em 0em 0.5em;
 }
-section p {
+section > p {
   text-indent: 1em;
 }
-section p:has(img) {
+section > p:has(img) {
   text-align: center;
 }
-section p:has(img) img {
+section > p:has(img) img {
   margin: unset auto;
   width: 50%;
 }
