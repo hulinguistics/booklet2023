@@ -162,12 +162,12 @@ h3 {
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: 3rem;
   line-height: 1.2;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   line-height: 1.2;
 }
 
@@ -583,7 +583,7 @@ nav[role=doc-toc] li a::after {
   break-after: page;
 }
 #cover h1 {
-  color: rgba(0, 0, 0, 0);
+  color: rgba(0, 0, 0, 0) !important;
   font-size: 2rem;
   border: none;
 }
@@ -618,8 +618,14 @@ nav[role=doc-toc] li a::after {
   }
 }
 section h1 {
-  padding-bottom: 0.6em;
-  border-bottom: 2px solid #000;
+  margin: 0.67em 0em 2.5em;
+  color: black;
+}
+section h2, section h3, section h4 {
+  margin: 1em 0em 0.5em;
+}
+section p {
+  text-indent: 1em;
 }
 section p:has(img) {
   text-align: center;
@@ -627,6 +633,9 @@ section p:has(img) {
 section p:has(img) img {
   margin: unset auto;
   width: 50%;
+}
+section.footnotes {
+  margin: 2em 0 0;
 }
 
 .section-title {
@@ -642,7 +651,7 @@ section p:has(img) img {
 }
 .section-title section h2 {
   text-align: center;
-  font-size: 4em;
+  font-size: 5em;
 }
 
 /* and more... 🖋 */
