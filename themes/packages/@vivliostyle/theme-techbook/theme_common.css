@@ -574,6 +574,44 @@ nav[role=doc-toc] li a::after {
 }
 
 /* and more... 🖋 */
+#cover {
+  break-after: page;
+}
+#cover h1 {
+  color: rgba(0, 0, 0, 0);
+  font-size: 2rem;
+  border: none;
+}
+
+/* Cover page */
+@page :first {
+  background-image: url("cover.png");
+  background-size: cover;
+  @top-left-corner {
+    content: none;
+  }
+  @top-center {
+    content: none;
+  }
+  @top-right-corner {
+    content: none;
+  }
+  @bottom-center {
+    content: none;
+  }
+  @bottom-left-corner {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @bottom-right {
+    content: none;
+  }
+  @bottom-right-corner {
+    content: none;
+  }
+}
 section h1 {
   padding-bottom: 0.6em;
   border-bottom: 2px solid #000;

@@ -7,12 +7,12 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-11T10:42:11.318Z",
+  "dateModified": "2023-05-12T08:21:28.554Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
       "url": "index.html",
-      "name": "言サ冊子2023(仮称)",
+      "name": "北大言語学サークル 第三外国語文法概説・寄稿",
       "rel": "contents",
       "type": "LinkedResource"
     },
@@ -70,5 +70,13 @@
     }
   ],
   "resources": [],
-  "links": []
+  "links": [
+    {
+      "rel": "cover",
+      "url": "../theme/cover.png",
+      "encodingFormat": "image/png",
+      "width": 2480,
+      "height": 3508
+    }
+  ]
 }
