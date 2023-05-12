@@ -652,6 +652,9 @@ section.footnotes {
 .section-title section h2 {
   text-align: center;
   font-size: 5em;
+  border-bottom: 2px solid #000000;
+  padding: 0 0.4em 0.3em;
+  font-weight: normal;
 }
 
 /* and more... 🖋 */
