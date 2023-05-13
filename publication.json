@@ -7,7 +7,7 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "北大言語学サークル Huling <info@huling.org>",
   "inLanguage": "ja",
-  "dateModified": "2023-05-12T15:34:08.226Z",
+  "dateModified": "2023-05-13T02:32:24.524Z",
   "name": "言サ冊子2023(仮称)",
   "readingOrder": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "3gai/ara.html",
-      "name": "アラビア語 /  العربية"
+      "name": "アラビア語 / العربية"
     },
     {
       "url": "3gai/fin.html",
